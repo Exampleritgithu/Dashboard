@@ -25,7 +25,7 @@ const CustomersPage = () => {
 
   return (
     <div className="p-4">
-      <h3 className="text-2xl font-bold mb-4">  Customers</h3>
+      <h3 className="text-2xl font-bold mb-4">Customers</h3>
 
       {/* Responsive Table */}
       <div className="bg-white rounded shadow overflow-x-auto">
